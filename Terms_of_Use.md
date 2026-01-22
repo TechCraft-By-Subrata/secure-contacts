@@ -61,4 +61,4 @@ We grant you a limited, non-exclusive, non-transferable, revocable license to us
 
 ## 14. Contact
 
-For questions about these Terms, contact: subraatakumar+secure-contacts.md
+For questions about these Terms, contact: subraatakumar+secure-contacts@gmail.com
