@@ -73,9 +73,7 @@ When a permission is requested, the device will display a system prompt. You can
 
 ## Contact
 
-If you have questions or requests about this privacy policy or your data, email: support@shehealth.subraatakumar.com
-
-For the complete, hosted privacy policy and updates see: https://shehealth.subraatakumar.com/privacy-policy
+If you have questions or requests about this privacy policy or your data, email: subraatakumar+secure-contacts.md
 
 ---
 Last updated: 2026-01-22
