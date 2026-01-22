@@ -73,7 +73,7 @@ When a permission is requested, the device will display a system prompt. You can
 
 ## Contact
 
-If you have questions or requests about this privacy policy or your data, email: subraatakumar+secure-contacts.md
+If you have questions or requests about this privacy policy or your data, email: subraatakumar+secure-contacts@gmail.com
 
 ---
 Last updated: 2026-01-22
